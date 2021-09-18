@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 22-big-data.md
+*.pdf
+*.pptx
+cloud-etl/ins_etl_s3_rds.ipynb
