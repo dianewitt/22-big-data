@@ -131,3 +131,4 @@ dmypy.json
 *.pdf
 *.pptx
 cloud-etl/ins_etl_s3_rds.ipynb
+notebooks/colab-github-demo.ipynb
